@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcredit_data_wiki=self.webpackChunkcredit_data_wiki||[]).push([[3184],{2167:function(a){a.exports=JSON.parse('{"allTagsPath":"/credit-data-wiki/blog/tags","slug":"/credit-data-wiki/blog/tags/facebook","name":"facebook","count":1,"permalink":"/credit-data-wiki/blog/tags/facebook"}')}}]);

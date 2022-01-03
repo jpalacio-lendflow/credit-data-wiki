@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcredit_data_wiki=self.webpackChunkcredit_data_wiki||[]).push([[1307],{1059:function(a){a.exports=JSON.parse('{"allTagsPath":"/credit-data-wiki/blog/tags","slug":"/credit-data-wiki/blog/tags/hello","name":"hello","count":2,"permalink":"/credit-data-wiki/blog/tags/hello"}')}}]);
